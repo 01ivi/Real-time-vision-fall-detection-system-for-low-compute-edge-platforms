@@ -2,7 +2,6 @@
 
 本部署包适用于瑞芯微RK3588，已经包含 RKNN 模型、板端推理脚本、src/edgefall 运行代码和 deploy_rk3588 C++ 后处理库。
 
-完整的云端训练代码请见https://github.com/BaiHJ-201/edge-fall.git。
 
 本部署包使用当前推荐的 RK3588 推理组合：
 
